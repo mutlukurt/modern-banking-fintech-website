@@ -14,6 +14,24 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🖥️ Desktop Experience
+![Desktop View](docs/desktop.png)
+*Full desktop experience with comprehensive navigation and rich content layout*
+
+### 📱 iPad Pro Experience  
+![iPad Pro View](docs/ipadpro.png)
+*Optimized tablet layout with responsive grid system and touch-friendly interface*
+
+### 📱 iPhone 14 Pro Max Experience
+![iPhone View](docs/iphone14promax.png)
+*Mobile-first design with hamburger menu and optimized mobile banking interface*
+
+</div>
+
 A cutting-edge, fully responsive banking and fintech website built with React, TypeScript, and Tailwind CSS. Features stunning animations, mobile-first design, and professional UI/UX that rivals industry leaders.
 
 ## 🌟 Features
@@ -41,24 +59,6 @@ A cutting-edge, fully responsive banking and fintech website built with React, T
 - **React Router**: Client-side routing
 - **React Hook Form**: Form validation and management
 - **Framer Motion**: Advanced animations and transitions
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🖥️ Desktop Experience
-![Desktop View](docs/desktop.png)
-*Full desktop experience with comprehensive navigation and rich content layout*
-
-### 📱 iPad Pro Experience  
-![iPad Pro View](docs/ipadpro.png)
-*Optimized tablet layout with responsive grid system and touch-friendly interface*
-
-### 📱 iPhone 14 Pro Max Experience
-![iPhone View](docs/iphone14promax.png)
-*Mobile-first design with hamburger menu and optimized mobile banking interface*
-
-</div>
 
 ## 🚀 Quick Start
 
