@@ -1,5 +1,19 @@
 # 🏦 Audisng - Modern Banking Fintech Website
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://modern-banking-finte-7cbt.bolt.host)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/yourusername/modern-banking-fintech-website)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+**🌟 Experience the future of banking with our live interactive demo**
+
+[**👆 Click here to explore the live website**](https://modern-banking-finte-7cbt.bolt.host)
+
+</div>
+
+---
+
 A cutting-edge, fully responsive banking and fintech website built with React, TypeScript, and Tailwind CSS. Features stunning animations, mobile-first design, and professional UI/UX that rivals industry leaders.
 
 ## 🌟 Features
