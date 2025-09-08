@@ -30,17 +30,37 @@ A cutting-edge, fully responsive banking and fintech website built with React, T
 
 ## 📸 Screenshots
 
-### Desktop Experience
-![Desktop View](docs/desktop.png)
-*Full desktop experience with comprehensive navigation and rich content layout*
+<div align="center">
 
-### iPad Pro Experience  
-![iPad Pro View](docs/ipadpro.png)
-*Optimized tablet layout with responsive grid system and touch-friendly interface*
+### 🖥️ Multi-Device Experience
 
-### iPhone 14 Pro Max Experience
-![iPhone View](docs/iphone14promax.png)
-*Mobile-first design with hamburger menu and optimized mobile banking interface*
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/desktop.png" alt="Desktop View" width="100%"/>
+      <br/>
+      <strong>🖥️ Desktop Experience</strong>
+      <br/>
+      <em>Full desktop experience with comprehensive navigation and rich content layout</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/ipadpro.png" alt="iPad Pro View" width="100%"/>
+      <br/>
+      <strong>📱 iPad Pro Experience</strong>
+      <br/>
+      <em>Optimized tablet layout with responsive grid system and touch-friendly interface</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/iphone14promax.png" alt="iPhone View" width="100%"/>
+      <br/>
+      <strong>📱 iPhone 14 Pro Max Experience</strong>
+      <br/>
+      <em>Mobile-first design with hamburger menu and optimized mobile banking interface</em>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🚀 Quick Start
 
