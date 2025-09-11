@@ -253,7 +253,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           </div>
 
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400 text-sm">
-            <p>&copy; 2024 Audisng. All rights reserved. | Privacy Policy | Terms of Service</p>
+            <p>&copy; 2025 Mutlu Kurt. Licensed under MIT License. | Privacy Policy | Terms of Service</p>
           </div>
         </div>
       </footer>
