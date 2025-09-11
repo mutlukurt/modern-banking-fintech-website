@@ -249,8 +249,10 @@ For support, email support@audisng.com or join our Slack channel.
 
 <div align="center">
 
-**Built with ❤️ by the Audisng Team**
+**Built with ❤️ by Mutlu Kurt**
 
-[Website](https://audisng.com) • [Documentation](https://docs.audisng.com) • [Support](mailto:support@audisng.com)
+**Open Source • MIT Licensed • Free to Use**
+
+[Live Demo](https://modern-banking-finte-7cbt.bolt.host) • [GitHub Repository](https://github.com/yourusername/modern-banking-fintech-website) • [MIT License](LICENSE)
 
 </div>
